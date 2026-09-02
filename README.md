@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Badges updated to full green background with black text -->
-<img src="https://img.shields.io/badge/📍_Sri_Lanka-00FF00?style=flat-square&labelColor=00FF00"/>
+<img src="https://img.shields.io/badge/📍_Sri_Lanka-00FF00?style=flat-square&labelColor=00FF00&"/>
 <img src="https://img.shields.io/badge/🎓_BIT_@_UoM-00FF00?style=flat-square&labelColor=00FF00"/>
 <img src="https://img.shields.io/badge/⚡_Status-Active_Recon-00FF00?style=flat-square&labelColor=00FF00"/>
 
@@ -39,5 +39,14 @@ class Thiviru:
         self.stack = ["Python", "java", "Bash", "C++"]
         self.philosophy = "How? Why? before code."
         self.status = "Analyzing cyber attack case studies..."
+```
+## 🐍 Network Activity Grid
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiviru-Deshapriya/Thiviru-Deshapriya/output/github-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiviru-Deshapriya/Thiviru-Deshapriya/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thiviru-Deshapriya/Thiviru-Deshapriya/output/github-snake.svg">
+  </picture>
+</div>
+<br/>

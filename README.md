@@ -11,9 +11,10 @@
 <br/>
 
 <!-- Badges updated to full green background with black text -->
-<img src="https://img.shields.io/badge/📍_Sri_Lanka-00FF00?style=flat-square&labelColor=00FF00&"/>
-<img src="https://img.shields.io/badge/🎓_BIT_@_UoM-00FF00?style=flat-square&labelColor=00FF00"/>
-<img src="https://img.shields.io/badge/⚡_Status-Active_Recon-00FF00?style=flat-square&labelColor=00FF00"/>
+<!-- Location -->
+<img src="https://img.shields.io/badge/📍_Sri_Lanka-004200?style=flat-square&labelColor=161b22" alt="Location Sri Lanka"/>
+<img src="https://img.shields.io/badge/🎓_BIT_@_UoM-004200?style=flat-square&labelColor=161b22" alt="BIT at University of Moratuwa"/>
+<img src="https://img.shields.io/badge/⚡_Status-Active_Recon-004200?style=flat-square&labelColor=161b22" alt="Status Active Reconnaissance"/>
 
 </div>
 

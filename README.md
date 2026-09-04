@@ -20,27 +20,36 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+### 💻 System Overview
 
-### 🕵️‍♂️ A bit about me
+```bash
+root@kali:~# whoami
+thiviru_deshapriya
 
-I'm reading for a **Bachelor of Information Technology at the University of Moratuwa (UoM)**, spending most of my late-night hours diving into **network defense, reverse engineering, and threat hunting**. 
+root@kali:~# cat /etc/academic_profile
+Degree: Bachelor of Information Technology (BIT)
+Institution: University of Moratuwa (UoM)
+Expected_Execution: 2028
 
-I live by a strict rule: **"How? Why? before writing a single line of code."** Instead of just skimming the surface, I focus on hunting down the core mechanisms of how systems operate and fail. Currently, I am deeply analyzing case studies of recent global and local cyber attacks to understand their anatomy in detail, and I am working on documenting and blogging these findings. 
+root@kali:~# ./fetch_philosophy.sh
+[+] "How? Why? before writing a single line of code."
+[+] "Instead of relying on pre-built tools, I build my own to understand the core mechanisms."
+[+] "The goal isn't to compete with enterprise-grade software, but to know exactly what happens under the hood rather than just being an end-user."
 
-Alongside my research, I'm working through my **Cisco CyberOps Associate** certification and actively developing my own custom network analysis and data recovery frameworks.
-> *"Instead of relying on pre-built tools, I build my own to understand the core mechanisms. The goal isn't to compete with enterprise-grade software, but to know exactly what happens under the hood rather than just being an end-user."*
-```python
-class Thiviru:
-    def __init__(self):
-        self.focus = ["Cybersecurity", "Threat Hunting", "Reverse Engineering", "Network analysing"]
-        self.currently_building = ["Ghost Bridge", "Lazarus"]
-        self.stack = ["Python", "java", "Bash", "C++"]
-        self.philosophy = "How? Why? before code."
-        self.status = "Analyzing cyber attack case studies..."
-```
+root@kali:~# systemctl status current_operations
+● active (running) — peak efficiency detected between 22:00 and 02:00
+   Tasks: 
+   ├─ Analyzing global/local cyber attack case studies
+   ├─ Executing Cisco CyberOps Associate modules
+   ├─ Developing [Ghost Bridge]: Custom network analysis framework
+   └─ Developing [Lazarus]: Data recovery mechanism
+
+root@kali:~# cat /var/log/tech_stack.json
+{
+  "core_focus": ["Cybersecurity", "Threat Hunting", "Reverse Engineering", "Network Analyzing"],
+  "languages": ["Python", "Java", "Bash", "C++"]
+}
+
 ## 🐍 Network Activity Grid
 
 <div align="center">
